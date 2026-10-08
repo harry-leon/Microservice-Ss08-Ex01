@@ -1,0 +1,16 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Optionals ###
+.idea/
+.DS_Store
+*.cmd
+*.bat
+*.log
+*.iml
+.classpath
+.project
+.settings
+.factorypath
